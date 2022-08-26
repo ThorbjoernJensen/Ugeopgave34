@@ -1,4 +1,4 @@
-package com.example.ugeopgavetorsdag;
+package dat;
 
 import java.io.*;
 import javax.servlet.http.*;
